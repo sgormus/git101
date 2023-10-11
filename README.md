@@ -1,1 +1,1 @@
-# git101 2023 is not fun
+# git101 will be fun
